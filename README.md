@@ -1,4 +1,4 @@
-# Lab | Imbalanced data
+# Imbalanced data
 
 We will be using the `files_for_lab/customer_churn.csv` dataset to build a churn predictor.
 
